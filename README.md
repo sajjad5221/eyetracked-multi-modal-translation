@@ -1,7 +1,13 @@
 # Eyetracked Multi-Modal Translation (EMMT)
 Release version 1.0
 
+The homepage of this project is also: https://ufal.mff.cuni.cz/eyetracked-multi-modal-translation
+
 We present Eyetracked Multi-Modal Translation (EMMT), a dataset containing monocular eye movement recordings, audio data and 4-electrode wearable electroencephalogram (EEG) data of 43 participants while engaged in sight translation task supported by an image.
+
+A visual browser (MEEDAV) for the dataset is available here: https://ufal-eeg-analyzer.streamlit.app/
+
+![MEEDAV Screenshot](https://ufal.mff.cuni.cz/~bojar/2025/images/emmt-data-browser.png)
 
 The full description of the experiment design is in the [paper accompanying the EMMT dataset](https://arxiv.org/abs/2204.02905):
 
